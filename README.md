@@ -1,8 +1,6 @@
-<div align="center">
 
-```
-# 👋 Hi, I'm Sanjish K C
-```
+<h1 align="center"><b>👋 Hi, I'm Sanjish KC</b></h1>
+
 
 ### `> MS Cybersecurity Candidate at Webster University | Network Analysis | Nmap | Wireshark | Linux | CS Educator Transitioning into Cybersecurity`
 
@@ -72,7 +70,6 @@ OPERATING SYSTEMS
 | 🔵 | **Introduction to Cybersecurity** | Cisco | 
 | 🟠 | **Pre Security Learning Path** | TryHackMe | 
 | 🟠 | **Introduction to Cyber Security Path** | TryHackMe | 
-| 🟡 | **Complete Android & Java Developer Course** | Udemy | 
 | 🏛️ | **Registered Computer Engineer** | Nepal Engineering Council | 
 
 ---
