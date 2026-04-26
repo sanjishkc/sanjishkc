@@ -24,7 +24,8 @@ $ cat profile.txt
 > 🔐 Transitioning into Offensive Security & Threat Analysis
 > 🛠️  Background in IoT, Embedded Systems & Web Technologies
 > 🌐 Currently residing in USA | Originally from Pokhara, Nepal
-
+## 👨‍💻 Previous Work
+- 🏫 Teaching Notes and Codes: [github.com/Samanyamanav]
 ```
 
 
