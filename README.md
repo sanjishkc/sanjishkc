@@ -66,6 +66,7 @@ OPERATING SYSTEMS
 
 | Badge | Certification | Issuer | Year |
 |-------|--------------|--------|------|
+| 🟠 | **Cyber Secrity 101 Path** | TryHackMe | 
 | 🟢 | **Getting Started with Wireshark** | Udemy 
 | 🟢 | **Nmap for Ethical Hackers** | Udemy | 
 | 🔵 | **Introduction to Cybersecurity** | Cisco | 
