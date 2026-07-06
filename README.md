@@ -2,7 +2,7 @@
 <h1 align="center"><b>👋 Hi, I'm Sanjish KC</b></h1>
 
 
-### `> MS Cybersecurity Candidate at Webster University | Network Analysis | Nmap | Wireshark | Linux | CS Educator Transitioning into Cybersecurity`
+### `> MS Cybersecurity Candidate at Webster University | Comp TIA Security+ | Network Analysis | Nmap | Wireshark | Linux | CS Educator Transitioning into Cybersecurity`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=MS+Cybersecurity+Candidate+at+Webster+University;Network+Analysis+%7C+Nmap+%7C+Wireshark;Linux+%7C+CS+Educator+Transitioning+into+Cybersecurity)](https://git.io/typing-svg)
 
