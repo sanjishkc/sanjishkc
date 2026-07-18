@@ -2,9 +2,9 @@
 <h1 align="center"><b>👋 Hi, I'm Sanjish KC</b></h1>
 
 
-### `> MS Cybersecurity Candidate at Webster University | Comp TIA Security+ | Network Analysis | Nmap | Wireshark | Linux | CS Educator Transitioning into Cybersecurity`
+### `> MS Cybersecurity Candidate at Webster University | CompTIA Security+ | Network Analysis | Nmap | Wireshark | Linux | CS Educator Transitioning into Cybersecurity`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=MS+Cybersecurity+Candidate+at+Webster+University;Network+Analysis+%7C+Nmap+%7C+Wireshark;Linux+%7C+CS+Educator+Transitioning+into+Cybersecurity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=MS+Cybersecurity+Candidate+at+Webster+University;CompTIA+Security+%2B;Network+Analysis+%7C+Nmap+%7C+Wireshark;Linux+%7C+CS+Educator+Transitioning+into+Cybersecurity)](https://git.io/typing-svg)
 
 📍 **Currently based in USA** &nbsp;|&nbsp; 🇳🇵 **Originally from Pokhara, Nepal**
 
@@ -19,7 +19,7 @@ $ whoami
 > Sanjish K C — MS Cybersecurity Candidate at Webster University
 
 $ cat profile.txt
-> 🎓 Pursuing MS in Cyber/Electronic Operations & Warfare @ Webster University
+> 🎓 Pursuing MS in Cyber/Electronic Operations Webster University
 > 💼 5+ years of experience in IT Education & Computer Engineering
 > 🔐 Transitioning into Offensive Security & Threat Analysis
 > 🛠️  Background in IoT, Embedded Systems & Web Technologies
@@ -32,10 +32,19 @@ $ cat profile.txt
 ## 🛡️ Cybersecurity Arsenal
 
 ```
+DEFENSIVE SECURITY
+──────────────────────────────────────────────
+  SIEM / Log Analysis    ███████░░░  Wazuh, Splunk (Learning)
+  Threat Detection       ██████░░░░  Sysmon, MITRE ATT&CK
+  Digital Forensics      ███████░░░  Autopsy, EXIF/Metadata
+  Incident Response      ██████░░░░  SOC Triage, TryHackMe
+  Endpoint Monitoring    █████░░░░░  Wazuh Agents, Sysmon
+  CTF / Labs             ████████░░  TryHackMe
+
 OFFENSIVE SECURITY
 ──────────────────────────────────────────────
-  Reconnaissance   ███████░░░  Nmap, Wireshark
-  Web App Testing  ██████░░░░  OWASP, Burp Suite (Learning)
+  Reconnaissance   ███████░░░  Nmap. Brim
+  Web App Testing  █████░░░░░░  OWASP, Burp Suite (Learning)
   Network Analysis ██████░░░░  Wireshark, TCP/IP
   CTF / Labs       ████░░░░░░  TryHackMe
 
@@ -43,7 +52,7 @@ PROGRAMMING & SCRIPTING
 ──────────────────────────────────────────────
   C / C++          █████████░
   Java             ████████░░
-  PHP              ███████░░░
+  PHP              ██████░░░░
   HTML / CSS       █████████░
   SQL              ███████░░░
 
@@ -64,8 +73,10 @@ OPERATING SYSTEMS
 
 ## 📜 Certifications
 
-| Badge | Certification | Issuer | Year |
-|-------|--------------|--------|------|
+| Badge | Certification | Issuer | 
+|-------|--------------|--------|
+| 🟠 | **SOC Level 1 Certificate** | TryHackMe | 
+| 🟠 | **CompTIA Security+ ce Certification** | CompTIA | 
 | 🟠 | **Cyber Security 101 Path** | TryHackMe | 
 | 🟢 | **Getting Started with Wireshark** | Udemy 
 | 🟢 | **Nmap for Ethical Hackers** | Udemy | 
@@ -97,18 +108,6 @@ OPERATING SYSTEMS
 ├── 📂 projects/              # IoT, hardware & development projects
 └── 📂 tools-scripts/         # Custom scripts & automation tools
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sanjish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjishkc&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sanjishkc&theme=matrix&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
-
-</div>
 
 ---
 
