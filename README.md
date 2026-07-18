@@ -105,7 +105,7 @@ OPERATING SYSTEMS
 ├── 📂 thm-writeups/          # TryHackMe room walkthroughs & methodology notes
 ├── 📂 ctf-writeups/          # CTF competition solutions & techniques
 ├── 📂 security-notes/        # Study notes, cheatsheets & reference material
-├── 📂 projects/              # IoT, hardware & development projects
+├── 📂 projects/              # Cybersecurity projects
 └── 📂 tools-scripts/         # Custom scripts & automation tools
 ```
 
