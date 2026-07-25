@@ -75,7 +75,7 @@ OPERATING SYSTEMS
 
 | Badge | Certification | Issuer | 
 |-------|--------------|--------|
-| 🟠 | **SOC Level 1 Certificate** | TryHackMe | 
+| 🟠 | **SOC Level 1 Path Completion** | TryHackMe | 
 | 🟠 | **CompTIA Security+ ce Certification** | CompTIA | 
 | 🟠 | **Cyber Security 101 Path** | TryHackMe | 
 | 🟢 | **Getting Started with Wireshark** | Udemy 
